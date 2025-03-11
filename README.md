@@ -1,7 +1,5 @@
 # Hi, I'm Tanawat Jukmongkol 👋
 
----
-
 ## About me
 
 I'm a student at KMITL, Robotics and AI, and a 42 BKK outer core student.
