@@ -6,7 +6,9 @@
 ## Languages
 - C / C++
 - JS / TS, HTML, CSS
+- Nix
 - Python
 - Lua
+- Assembly (x86_64)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanawatJukmongkol&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
